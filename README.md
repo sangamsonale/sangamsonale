@@ -1,57 +1,96 @@
-# 👋 Hi, I'm Sangamesh
+# 👋 Hi, I'm Sangamesh Sonale
 
-🚀 QA Automation Engineer | SDET  
+🚀 Senior QA Automation Engineer | SDET  
 📍 Boston, MA  
+💼 5+ Years Experience | UI + API + Performance Testing  
 
 ---
 
 ## 🔥 About Me
 
-- 💻 3+ years in QA Automation
-- 🧪 Expert in UI & API Testing
-- ⚡ Building scalable automation frameworks
-- 🎯 Actively looking for SDET / QA roles
+- 💻 5+ years of experience in QA Automation & SDET roles
+- ⚡ Built scalable automation frameworks using Playwright, Selenium, Cypress, Pytest
+- 🔗 Strong in API testing (RestAssured, Postman, Pytest)
+- 🚀 Experience with CI/CD (Jenkins, GitHub Actions, GitLab CI)
+- 🐳 Hands-on with Docker, AWS (EC2, S3), and cloud-based testing
+- 📊 Performance testing using JMeter & Locust
+- 🎯 Focused on improving automation coverage, reliability, and faster releases
 
 ---
 
 ## 🛠 Tech Stack
 
-**Automation:**  
-Selenium | Playwright | Cypress | Appium  
+### 🔹 Automation & Frameworks
+Playwright | Selenium | Cypress | Appium  
+Pytest | TestNG | JUnit | Cucumber (BDD)  
+POM | Data-Driven | Hybrid Frameworks  
 
-**Languages:**  
+### 🔹 Languages
 Python | Java | JavaScript  
 
-**API Testing:**  
-Postman | RestAssured  
+### 🔹 API & Performance Testing
+Postman | RestAssured | Swagger | SOAP UI  
+JMeter | Locust  
 
-**Frameworks:**  
-Pytest | TestNG | BDD (Cucumber / pytest-bdd)  
+### 🔹 DevOps & Tools
+GitHub Actions | Jenkins | GitLab CI/CD | Docker  
+TestRail | Zephyr | JIRA | Allure Reports  
 
-**DevOps:**  
-GitHub Actions | Jenkins | Docker  
+### 🔹 Databases & Cloud
+MySQL | PostgreSQL | MongoDB  
+AWS (EC2, S3, Lambda)  
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🔹 QA Automation Framework (Playwright + Pytest + BDD)
+👉 https://github.com/sangamsonale/qa-practice
 
 - Multi-browser testing (Chromium, Firefox, WebKit)
 - Page Object Model (POM)
-- BDD with pytest-bdd
-- CI/CD with GitHub Actions
+- BDD using pytest-bdd
+- CI/CD integration (GitHub Actions)
 - Screenshot capture on failure
-
-👉 [View Project](https://github.com/sangamsonale/qa-practice)
-
----
-
-## 📫 Connect with me
-
-- LinkedIn: (add your link)
-- Email: (optional)
+- Scalable test architecture
 
 ---
 
-⭐ Always learning. Always building.
+## 💼 Experience Highlights
+
+### 🔹 Rivian – Senior QA Engineer
+- Built 120+ Playwright automation scripts (98% cross-browser coverage)
+- Automated 45+ API endpoints using Pytest
+- Reduced CI validation time by 35% using Docker pipelines
+- Performed load testing for 6000+ concurrent users
+
+### 🔹 UnitedHealth Group – QA Automation Engineer
+- Developed 850+ Selenium test cases
+- Automated 55+ APIs using RestAssured
+- Improved framework performance by 25%
+- Ensured PHI data validation compliance
+
+### 🔹 Epsilon Technology – QA Engineer
+- Executed 500+ test cases across enterprise apps
+- Reduced production defects by 40%
+- Performed cross-browser testing (Chrome, Firefox, Safari)
+
+---
+
+## 📈 What I Bring
+
+- Strong end-to-end QA ownership (UI + API + DB + Performance)
+- Framework design & scalability mindset
+- Real-world CI/CD integration experience
+- Agile/Scrum collaboration across teams
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: sangameshsonale393@gmail.com  
+- 💼 LinkedIn: [[(add your link here)](https://www.linkedin.com/in/sangameshsonale/)]
+
+---
+
+⭐ Open to SDET / QA Automation roles in the USA
