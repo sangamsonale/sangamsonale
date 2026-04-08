@@ -2,13 +2,13 @@
 
 🚀 Senior QA Automation Engineer | SDET  
 📍 Boston, MA  
-💼 5+ Years Experience | UI + API + Performance Testing  
+💼 6+ Years Experience | UI + API + Database + Performance Testing  
 
 ---
 
 ## 🔥 About Me
 
-- 💻 5+ years of experience in QA Automation & SDET roles
+- 💻 6+ years of experience in QA Automation & SDET roles
 - ⚡ Built scalable automation frameworks using Playwright, Selenium, Cypress, Pytest
 - 🔗 Strong in API testing (RestAssured, Postman, Pytest)
 - 🚀 Experience with CI/CD (Jenkins, GitHub Actions, GitLab CI)
@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Automation & Frameworks
-Playwright | Selenium | Cypress | Appium  
+Playwright | Selenium | Appium  
 Pytest | TestNG | JUnit | Cucumber (BDD)  
 POM | Data-Driven | Hybrid Frameworks  
 
