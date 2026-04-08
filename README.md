@@ -89,7 +89,7 @@ AWS (EC2, S3, Lambda)
 ## 📫 Connect with Me
 
 - 📧 Email: sangameshsonale393@gmail.com  
-- 💼 LinkedIn: [sangameshsonale](https://www.linkedin.com/in/sangameshsonale/)]
+- 💼 LinkedIn: [sangameshsonale](https://www.linkedin.com/in/sangameshsonale/)
 
 ---
 
